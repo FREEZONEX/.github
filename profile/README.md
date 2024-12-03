@@ -1,14 +1,24 @@
 ## Hi there 👋
 
+<!--
+<p align="center">
+  <a href="https://www.ultralytics.com/">
+  <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
+</p>
+<div align="center">
+ -->
+ 
+<br>
 
-**Here are some ideas to get you started:**
+[FREEZONEX](https://www.freezonex.framer.ai/) is on a mission to Revolutionize Industrial Software and Elevate Digital Experiences. Driven by the passion for innovation, we deliver cutting-edge solutions that empower businesses to excel in a rapidly advancing digital landscape. we are dedicated to creating the best artificial intelligence models in the world. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At FREEZONEX, we're not just building solutions——we're reimagining what's possible, pushing the boundaries to 
+<span style="background-color: #B2ED1D">Create a World that Never has Been</span>
 
+
+
+Join us on our mission to push the boundaries of AI and make it accessible to everyone! 💡🌟
+
+<br>
 
 ![test](test.png)
