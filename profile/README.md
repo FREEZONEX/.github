@@ -15,11 +15,7 @@
 
 **FREEZONEX** is on a mission to *Revolutionize Industrial Software and Elevate Digital Experiences*.
 
----
-
 Built for **Industry** and **Smart City**, we've launched an advanced **IIoT platform - [supOS](https://your-supos-website.com)** that empowers you to connect, analyze, and transform factory operations. Enhance digital capabilities and unlock smarter insights by leveraging data effectively. The **[supOS Community Edition](https://github.com/your-org/supos-community-edition)** is now open-source. [Download and experience now!](https://github.com/your-org/supos-community-edition)
-
----
 
 At **FREEZONEX**, we're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
 
