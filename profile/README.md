@@ -20,12 +20,13 @@ At **FREEZONEX**, we're not just building solutions—we're reimagining what's p
 - [Know more about FREEZONEX](https://your-freezonex-website.com/about)
 
 ---
-
+<div style="text-align: center;">
 ## Connect with Us
 
-[![GitHub](./github%20logo/Logo--github.svg)](https://github.com/FREEZONEX)
-[![LinkedIn](./github%20logo/Logo--linkedin.svg)](https://www.linkedin.com/company/91136833)
-[![X](./github%20logo/Logo--x.svg)](https://x.com/FreezoneX123)
-[![Discord](./github%20logo/Logo--discord.svg)](https://discord.gg/G2zdNb52Vq)
-[![weichat](./github%20logo/Subtract.svg)](https://discord.gg/G2zdNb52Vq)
+[![GitHub](./githublogo/Logo--github.svg)](https://github.com/FREEZONEX)
+[![LinkedIn](./githublogo/Logo--linkedin.svg)](https://www.linkedin.com/company/91136833)
+[![X](./githublogo/Logo--x.svg)](https://x.com/FreezoneX123)
+[![Discord](./githublogo/Logo--discord.svg)](https://discord.gg/G2zdNb52Vq)
+[![weichat](./githublogo/Subtract.svg)](https://discord.gg/G2zdNb52Vq)
+</div >
 <br>
