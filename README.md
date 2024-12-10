@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![iamge](image.png)
+![iamge](./profile/image.png)
 <br>
 # Welcome to [FREEZONEX](https://supos.ai/company/about-us)
 
