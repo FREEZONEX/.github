@@ -23,10 +23,10 @@ At **FREEZONEX**, we're not just building solutions—we're reimagining what's p
 <div style="text-align: center;">
 ## Connect with Us
 
-[![GitHub](./githublogo/Logo--github.svg)](https://github.com/FREEZONEX){:width="30px" height="30px"}
-[![LinkedIn](./githublogo/Logo--linkedin.svg)](https://www.linkedin.com/company/91136833){:width="30px" height="30px"}
-[![X](./githublogo/Logo--x.svg)](https://x.com/FreezoneX123){:width="30px" height="30px"}
-[![Discord](./githublogo/Logo--discord.svg)](https://discord.gg/G2zdNb52Vq){:width="30px" height="30px"}
-[![weichat](./githublogo/Subtract.svg)](https://discord.gg/G2zdNb52Vq){:width="30px" height="30px"}
-</div >
+<a href="https://github.com/FREEZONEX"><img src="./githublogo/Logo--github.svg" width="30" height="30" alt="GitHub"></a>
+<a href="https://www.linkedin.com/company/91136833"><img src="./githublogo/Logo--linkedin.svg" width="30" height="30" alt="LinkedIn"></a>
+<a href="https://x.com/FreezoneX123"><img src="./githublogo/Logo--x.svg" width="30" height="30" alt="X"></a>
+<a href="https://discord.gg/G2zdNb52Vq"><img src="./githublogo/Logo--discord.svg" width="30" height="30" alt="Discord"></a>
+<a href="https://mp.weixin.qq.com/s/tbK1gFVWGJ_etliTDOBxtA"><img src="./githublogo/Subtract.svg" width="30" height="30" alt="weichat"></a>
+</div>
 <br>
