@@ -21,7 +21,6 @@ At **FREEZONEX**, we're not just building solutions—we're reimagining what's p
 - [Read our Documentation](https://suposdocs.vercel.app/)
 - [Know more about FREEZONEX](https://supos.ai/)
 
----
 ## Connect with Us
 
 <div align="center" dir="auto" >
