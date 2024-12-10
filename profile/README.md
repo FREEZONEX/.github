@@ -24,14 +24,14 @@ At **FREEZONEX**, we're not just building solutions—we're reimagining what's p
 ## Connect with Us
 
 <div align="center" dir="auto" >
-  <a href="https://github.com/FREEZONEX"><img src="./githublogo/Logo--github.svg" width="60" height="60" alt="GitHub"></a>
+  <a href="https://github.com/FREEZONEX"><img src="./githublogo/Logo--github.svg" width="40" height="40" alt="GitHub"></a>
   <a ><img src="./githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/company/91136833"><img src="./githublogo/Logo--linkedin.svg" width="60" height="60" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/91136833"><img src="./githublogo/Logo--linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
    <a ><img src="./githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://x.com/FreezoneX123"><img src="./githublogo/Logo--x.svg" width="60" height="60" alt="X"></a>
+  <a href="https://x.com/FreezoneX123"><img src="./githublogo/Logo--x.svg" width="40" height="40" alt="X"></a>
    <a ><img src="./githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://discord.gg/G2zdNb52Vq"><img src="./githublogo/Logo--discord.svg" width="60" height="60" alt="Discord"></a>
+  <a href="https://discord.gg/G2zdNb52Vq"><img src="./githublogo/Logo--discord.svg" width="40" height="40" alt="Discord"></a>
    <a ><img src="./githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://mp.weixin.qq.com/s/tbK1gFVWGJ_etliTDOBxtA"><img src="./githublogo/Subtract.svg" width="60" height="60" alt="weichat"></a>
+  <a href="https://mp.weixin.qq.com/s/tbK1gFVWGJ_etliTDOBxtA"><img src="./githublogo/Subtract.svg" width="40" height="40" alt="weichat"></a>
 </div>
 <br>
