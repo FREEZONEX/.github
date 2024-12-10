@@ -3,11 +3,11 @@
 
 ![iamge](image.png)
 <br>
-# Welcome to [FREEZONEX](https://your-freezonex-website.com)
+# Welcome to [FREEZONEX](https://supos.ai/company/about-us)
 
-**FREEZONEX** is on a mission to *Revolutionize Industrial Software and Elevate Digital Experiences*.
+**FREEZONEX** is on a mission to Revolutionize Industrial Software and Elevate Digital Experiences.
 
-Built for **Industry** and **Smart City**, we've launched an advanced **IIoT platform - [supOS](https://your-supos-website.com)** that empowers you to connect, analyze, and transform factory operations. Enhance digital capabilities and unlock smarter insights by leveraging data effectively. The **[supOS Community Edition](https://github.com/your-org/supos-community-edition)** is now open-source. [Download and experience now!](https://github.com/your-org/supos-community-edition)
+Built for **Industry** and **Smart City**, we've launched an advanced **IIoT platform - [supOS](https://supos.ai/product/supos)** that empowers you to connect, analyze, and transform factory operations. Enhance digital capabilities and unlock smarter insights by leveraging data effectively. The **[supOS Community Edition](https://github.com/orgs/FREEZONEX)** is now open-source. [Download and experience now!](https://github.com/orgs/FREEZONEX)
 
 At **FREEZONEX**, we're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
 
@@ -15,11 +15,11 @@ At **FREEZONEX**, we're not just building solutions—we're reimagining what's p
 
 ## Let's build an open and vibrant community together 🚀
 
-- [Join FREEZONEX](https://your-freezonex-website.com/join)
-- [Join our Community](https://discord.com/invite/your-discord-link)
-- [Check out our Blog](https://your-freezonex-website.com/blog)
-- [Read our Documentation](https://your-freezonex-website.com/docs)
-- [Know more about FREEZONEX](https://your-freezonex-website.com/about)
+- [Join FREEZONEX](https://supos.ai/company/career)
+- [Join our Community](https://discord.gg/G2zdNb52Vq)
+- [Check out our Blog](https://supos.ai/blogs/menu)
+- [Read our Documentation](https://suposdocs.vercel.app/)
+- [Know more about FREEZONEX](https://supos.ai/)
 
 ---
 ## Connect with Us
