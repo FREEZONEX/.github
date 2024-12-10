@@ -20,8 +20,9 @@ At **FREEZONEX**, we're not just building solutions—we're reimagining what's p
 - [Know more about FREEZONEX](https://your-freezonex-website.com/about)
 
 ---
-## Connect with Us
-<div align="center" dir="auto" style="display: flex; justify-content: space-around; align-items: center;">
+<!-- ## Connect with Us -->
+
+<div align="center" dir="auto" >
   <a href="https://github.com/FREEZONEX"><img src="./githublogo/Logo--github.svg" width="60" height="60" alt="GitHub"></a>
   <a href="https://www.linkedin.com/company/91136833"><img src="./githublogo/Logo--linkedin.svg" width="60" height="60" alt="LinkedIn"></a>
   <a href="https://x.com/FreezoneX123"><img src="./githublogo/Logo--x.svg" width="60" height="60" alt="X"></a>
