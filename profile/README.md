@@ -11,8 +11,6 @@ Built for **Industry** and **Smart City**, we've launched an advanced **IIoT pla
 
 we're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
 
----
-
 ## Let's build an open and vibrant community together 🚀
 
 - [Join supOS](https://supos.ai/company/career)
