@@ -9,7 +9,7 @@
 
 Built for **Industry** and **Smart City**, we've launched an advanced **IIoT platform - [supOS](https://supos.ai/product/supos)** that empowers you to connect, analyze, and transform factory operations. Enhance digital capabilities and unlock smarter insights by leveraging data effectively. The **[supOS Community Edition](https://github.com/orgs/FREEZONEX)** is now available. [Download and experience now!](https://github.com/orgs/FREEZONEX)
 
-At **supOS**, we're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
+we're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
 
 ---
 
