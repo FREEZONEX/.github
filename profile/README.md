@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 ![iamge](image.png)
 <br>
