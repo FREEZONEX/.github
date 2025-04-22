@@ -12,7 +12,7 @@ we're not just building solutions—we're reimagining what's possible, pushing t
 ## Let's build an open and vibrant community together 🚀
 
 - [Join supOS](https://supos.ai/company/career)
-- [Join our Community](https://discord.gg/G2zdNb52Vq)
+- [Join our Community](https://discord.gg/g6xKN7u7)
 - [Check out our Blog](https://supos.ai/blogs/menu)
 - [Read our Documentation](https://suposdocs.vercel.app/)
 - [Know more about FREEZONEX](https://supos.ai/)
