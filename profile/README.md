@@ -1,14 +1,11 @@
-
 ![iamge](image.png)
 <br>
+
 # Welcome to [Tier0](https://tier0.app/product/tier0)
 
-**Tier0** is an industrial data platform designed to be **radically easy to use**, **open source core**, and **future-proof** for modern factories
+Tier0 is an industrial data platform built to be radically easy to use, open at its core, and future-proof for modern factories. By orchestrating data from machines, systems, and applications into a Unified Namespace, Tier0 delivers real-time visibility and AI-powered insights across your production.
 
-Tier0 connects machines, systems, and applications into a Unified Namespace, enabling real-time visibility and AI-powered insights from your production data.
-
-
-### Why Tier0?
+## Why Tier0?
 
 - **Radically easy to use** – from first install to live data in minutes.
 - **Open and interoperable** – built on open standards (MQTT, UNS, Kubernetes, Node-RED, notebooks, etc.) and integrates easily with modern best-of-breed tools to avoid vendor lock-in.
@@ -17,10 +14,9 @@ Tier0 connects machines, systems, and applications into a Unified Namespace, ena
 
 [**Tier0-Edge**](https://github.com/FREEZONEX/Tier0-Edge) is available for you to download, explore, and customize in your own environment.
 
+We're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
 
-we're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
-
-### Let's build an open and vibrant community together 🚀
+## Let's build an open and vibrant community together 🚀
 
 - [Join Tier0](https://tier0.app/company/career)
 - [Join our Community](https://discord.gg/ZmMKGum26Q)
@@ -41,3 +37,4 @@ we're not just building solutions—we're reimagining what's possible, pushing t
    <a ><img src="./githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
 </div>
 <br>
+
