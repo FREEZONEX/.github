@@ -18,10 +18,10 @@ We're not just building solutions—we're reimagining what's possible, pushing t
 
 ## Let's build an open and vibrant community together 🚀
 
-- [Join Tier0](https://tier0.app/company/career)
+- [Join us](https://tier0.app/company/career)
 - [Join our Community](https://discord.gg/ZmMKGum26Q)
 - [Check out our Blog](https://tier0.app/blogs/menu)
-- [Read our Documentation](https://tier0edge.vercel.app)
+- [Read Technical Documentation](https://tier0edge.vercel.app)
 - [Know more about FREEZONEX](https://tier0.app)
 
 ## Connect with Us
