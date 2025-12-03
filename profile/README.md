@@ -35,6 +35,10 @@ We're not just building solutions—we're reimagining what's possible, pushing t
    <a ><img src="./githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
   <a href="https://discord.com/invite/ZmMKGum26Q"><img src="./githublogo/Logo--discord.svg" width="40" height="40" alt="Discord"></a>
    <a ><img src="./githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
+ <a href="https://www.youtube.com/@FREEZONEX.Official">
+   <img src="./githublogo/YouTube.svg" width="40" height="40" alt="YouTube">
+</a>
+
 </div>
 <br>
 
