@@ -1,4 +1,4 @@
-![iamge](./githublogo/Github%20md.png)(https://www.tier0.ai/)
+[![image](./githublogo/Github%20md.png)](https://www.tier0.app/)
 
 # Welcome to Tier0
 
