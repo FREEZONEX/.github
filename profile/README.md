@@ -2,7 +2,7 @@
 
 # Welcome to Tier0
 
-Tier0 is an industrial data platform built to be radically easy to use, open at its core, and future-proof for modern factories. By orchestrating data from machines, systems, and applications into a Unified Namespace, Tier0 delivers real-time visibility and AI-powered insights across your production.
+Tier0 is an industrial platform that brings Unified Namespace(UNS) into practice for industrial data integration, AI-powered app development, and advanced analytics.
 
 ## Why Tier0?
 
