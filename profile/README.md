@@ -29,16 +29,16 @@ Tier0 is a family of products designed for different deployment models and opera
 
 Tier0 is designed to help industrial teams go further:
 
-- **Agentic App Builder**
+- **Agentic App Builder**  
   Rapidly generate MES-grade industrial applications from natural language and operational context.
 
-- **Advanced Analysis with Marimo**
+- **Advanced Analysis with Marimo**  
   Build reusable KPI tracking and analysis workflows with notebook-driven and SQL-enabled tools.
 
-- **Anchor**
+- **Anchor**  
   Instantly access a machine’s digital twin by scanning a code, with key operational data, status, and context in one place.
-
-More capabilities are on the way!
+  
+More capabilities are on the way✨
 
 ## Let's build an open and vibrant community together 🚀
 
