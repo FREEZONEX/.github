@@ -1,20 +1,46 @@
 ![iamge](image.png)
 <br>
 
-# Welcome to [Tier0](https://tier0.app/product/tier0)
 
-Tier0 is an industrial data platform built to be radically easy to use, open at its core, and future-proof for modern factories. By orchestrating data from machines, systems, and applications into a Unified Namespace, Tier0 delivers real-time visibility and AI-powered insights across your production.
+# Welcome to Tier0
+
+Tier0 is an agentic industrial platform for building a Unified Namespace and turning industrial data into operational insight.
+
+Built by FREEZONEX, Tier0 starts with an open, extensible edge runtime and extends into cloud-managed workflows, application development, and advanced analysis.
 
 ## Why Tier0?
 
-- **Radically easy to use** – from first install to live data in minutes.
-- **Open and interoperable** – built on open standards (MQTT, UNS, Kubernetes, Node-RED, notebooks, etc.) and integrates easily with modern best-of-breed tools to avoid vendor lock-in.
-- **Future-proof architecture** – cloud and edge ready, event-driven, and designed to grow from a single line to a global factory network.
-- **Open-core at the heart** – a transparent, extensible core you can inspect and extend, with optional enterprise features for security, governance, and operations at scale.
+* **Simple to adopt**— from installation to live industrial data in minutes.
+* **Open by design** — built on open standards and widely used tools.
+* **Built to scale** — from a single line to multiple sites with a consistent architecture.
+* **Made for operations** — flexible at the core, with added platform capabilities where they create practical value.
 
-[**Tier0-Edge**](https://github.com/FREEZONEX/Tier0-Edge) is available for you to download, explore, and customize in your own environment.
+## Tier0 Product Lineup
 
-We're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
+Tier0 is a family of products designed for different deployment models and operational requirements.
+
+- **Tier0-Edge**
+  Tier0-Edge is the open-source edition of Tier0, built for single-machine deployment and foundational Unified Namespace use cases.
+- **Tier0 Cloud**
+  Tier0 Cloud is the managed SaaS offering for teams that want faster rollout, lower operational overhead, and access to broader platform capabilities.
+  
+- **Tier0 Enterprise**
+  Tier0 Enterprise is the private deployment option for organizations that need greater scale, stronger governance, and enterprise-grade control.
+
+## Beyond the open-source core
+
+Tier0 is designed to help industrial teams go further:
+
+- **Agentic App Builder**
+  Rapidly generate MES-grade industrial applications from natural language and operational context.
+
+- **Advanced Analysis with Marimo**
+  Build reusable KPI tracking and analysis workflows with notebook-driven and SQL-enabled tools.
+
+- **Anchor**
+  Instantly access a machine’s digital twin by scanning a code, with key operational data, status, and context in one place.
+
+More capabilities are on the way!
 
 ## Let's build an open and vibrant community together 🚀
 
