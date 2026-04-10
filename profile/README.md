@@ -2,7 +2,7 @@
 
 # Welcome to Tier0
 
-Tier0 is an agentic industrial platform for building a Unified Namespace and turning industrial data into operational insight.
+Tier0 is an agentic industrial platform for building a **Unified Namespace** and turning industrial data into operational insight.
 
 Built by FREEZONEX, Tier0 starts with an open, extensible edge runtime and extends into cloud-managed workflows, application development, and advanced analysis.
 
@@ -21,7 +21,6 @@ Tier0 is a family of products designed for different deployment models and opera
   Tier0-Edge is the open-source edition of Tier0, built for single-machine deployment and foundational Unified Namespace use cases.
 - **Tier0 Cloud**
   Tier0 Cloud is the managed SaaS offering for teams that want faster rollout, lower operational overhead, and access to broader platform capabilities.
-  
 - **Tier0 Enterprise**
   Tier0 Enterprise is the private deployment option for organizations that need greater scale, stronger governance, and enterprise-grade control.
 
@@ -32,8 +31,8 @@ Tier0 is designed to help industrial teams go further:
 - **Agentic App Builder**  
   Rapidly generate MES-grade industrial applications from natural language and operational context.
 
-- **Advanced Analysis with Marimo**  
-  Build reusable KPI tracking and analysis workflows with notebook-driven and SQL-enabled tools.
+- **Advanced Analysis**  
+  Build reusable KPI tracking and analysis workflows with Marimo Notebooks.
 
 - **Anchor**  
   Instantly access a machine’s digital twin by scanning a code, with key operational data, status, and context in one place.
