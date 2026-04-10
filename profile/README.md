@@ -2,9 +2,7 @@
 
 # Welcome to Tier0
 
-Tier0 is an agentic industrial platform for building a **Unified Namespace** and turning industrial data into operational insight.
-
-Built by FREEZONEX, Tier0 starts with an open, extensible edge runtime and extends into cloud-managed workflows, application development, and advanced analysis.
+Tier0 is an industrial data platform built to be radically easy to use, open at its core, and future-proof for modern factories. By orchestrating data from machines, systems, and applications into a Unified Namespace, Tier0 delivers real-time visibility and AI-powered insights across your production.
 
 ## Why Tier0?
 
