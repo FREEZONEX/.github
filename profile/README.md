@@ -28,10 +28,8 @@ Tier0 is designed to help industrial teams go further:
 
 - **Agentic App Builder**  
   Rapidly generate MES-grade industrial applications from natural language and operational context.
-
 - **Advanced Analysis**  
   Build reusable KPI tracking and analysis workflows with Marimo Notebooks.
-
 - **Anchor**  
   Instantly access a machine’s digital twin by scanning a code, with key operational data, status, and context in one place.
   
