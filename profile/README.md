@@ -1,6 +1,4 @@
-![iamge](image.png)
-<br>
-
+![iamge](./githublogo/Github%20md.png)
 
 # Welcome to Tier0
 
