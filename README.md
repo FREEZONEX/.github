@@ -1,37 +1,63 @@
-## Hi there 👋
+[![image](./profile/githublogo/Github%20md.png)](https://www.tier0.app/)
+
+# Welcome to Tier0
+
+Tier0 is an industrial platform that brings Unified Namespace(UNS) into practice for industrial data integration, AI-powered app development, and advanced analytics.
+
+## Tier0 Product Lineup
+
+Tier0 is a family of products designed for different deployment models and operational requirements.
+
+- **Tier0-Edge**  
+Tier0-Edge is the open-source edition of Tier0, built for single-machine deployment and foundational Unified Namespace use cases.
+- **Tier0 Cloud**  
+Tier0 Cloud is the managed SaaS offering for teams that want faster rollout, lower operational overhead, and access to broader platform capabilities.
+- **Tier0 Enterprise**  
+Tier0 Enterprise is the private deployment option for organizations that need greater scale, stronger governance, and enterprise-grade control.
+
+## Beyond the open-source core
+
+Tier0 is designed to help industrial teams go further:
+
+- **Agentic App Builder**  
+ Rapidly generate MES-grade industrial applications from natural language and operational context.
+- **Advanced Analysis**  
+ Build reusable KPI tracking and analysis workflows with Marimo Notebooks.
+- **Anchor**  
+ Instantly access a machine’s digital twin by scanning a code, with key operational data, status, and context in one place.
+  
+More capabilities are on the way✨
 
 
-![iamge](./profile/image.png)
-<br>
-# Welcome to [FREEZONEX](https://supos.ai/company/about-us)
+## Why Tier0?
 
-**FREEZONEX** is on a mission to Revolutionize Industrial Software and Elevate Digital Experiences.
-
-Built for **Industry** and **Smart City**, we've launched an advanced **IIoT platform - [supOS](https://supos.ai/product/supos)** that empowers you to connect, analyze, and transform factory operations. Enhance digital capabilities and unlock smarter insights by leveraging data effectively. The **[supOS Community Edition](https://github.com/orgs/FREEZONEX)** is now open-source. [Download and experience now!](https://github.com/orgs/FREEZONEX)
-
-At **FREEZONEX**, we're not just building solutions—we're reimagining what's possible, pushing the boundaries to **Create a World that Never Has Been**.
-
----
+* **Simple to adopt**— from installation to live industrial data in minutes.
+* **Open by design** — built on open standards and widely used tools.
+* **Built to scale** — from a single line to multiple sites with a consistent architecture.
+* **Made for operations** — flexible at the core, with added platform capabilities where they create practical value.
 
 ## Let's build an open and vibrant community together 🚀
 
-- [Join FREEZONEX](https://supos.ai/company/career)
-- [Join our Community](https://discord.gg/G2zdNb52Vq)
-- [Check out our Blog](https://supos.ai/blogs/menu)
-- [Read our Documentation](https://suposdocs.vercel.app/)
-- [Know more about FREEZONEX](https://supos.ai/)
+- [Join Us](https://tier0.app/company/career)
+- [Join Our Community](https://discord.gg/ZmMKGum26Q)
+- [Check Out Our Blog](https://tier0.app/blogs/menu)
+- [Read Technical Documentation](https://tier0edge.vercel.app)
+- [Know More About FREEZONEX](https://tier0.app)
 
 ## Connect with Us
 
 <div align="center" dir="auto" >
-  <a href="https://github.com/FREEZONEX"><img src="./profile/githublogo/Logo--github.svg" width="60" height="60" alt="GitHub"></a>
+  <a href="https://github.com/FREEZONEX"><img src="./profile/githublogo/Logo--github.svg" width="40" height="40" alt="GitHub"></a>
   <a ><img src="./profile/githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/company/91136833"><img src="./profile/githublogo/Logo--linkedin.svg" width="60" height="60" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/91136833"><img src="./profile/githublogo/Logo--linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
    <a ><img src="./profile/githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://x.com/FreezoneX123"><img src="./profile/githublogo/Logo--x.svg" width="60" height="60" alt="X"></a>
+  <a href="https://x.com/FreezoneX123"><img src="./profile/githublogo/Logo--x.svg" width="40" height="40" alt="X"></a>
    <a ><img src="./profile/githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://discord.gg/G2zdNb52Vq"><img src="./profile/githublogo/Logo--discord.svg" width="60" height="60" alt="Discord"></a>
+  <a href="https://discord.com/invite/ZmMKGum26Q"><img src="./profile/githublogo/Logo--discord.svg" width="40" height="40" alt="Discord"></a>
    <a ><img src="./profile/githublogo/emp.svg" width="20" height="1" alt="GitHub"></a>
-  <a href="https://mp.weixin.qq.com/s/tbK1gFVWGJ_etliTDOBxtA"><img src="./profile/githublogo/Subtract.svg" width="60" height="60" alt="weichat"></a>
+ <a href="https://www.youtube.com/@FREEZONEX.Official">
+   <img src="./profile/githublogo/YouTube.svg" width="40" height="40" alt="YouTube">
+</a>
+
 </div>
 <br>
